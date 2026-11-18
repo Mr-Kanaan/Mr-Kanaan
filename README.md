@@ -46,7 +46,7 @@ Designed and evaluated an AI assistant prototype for structured used-car adverti
 
 ## 🎓 Education & Training
 
-- **Computer & Communication Engineering** — C&E American University
+- **Computer & Communication Engineering** — American University of Culture & Education AUCE
 - **Data Analytics Training** — StackFuel, Germany
 - Practical training in SQL, Power BI, Python and AI applications
 
